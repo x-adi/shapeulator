@@ -1,2 +1,3 @@
 # shapeulator
 A tool to calculate basic things of triangles, squares, rectangles, cubes, cuboid and circles. Still in beta...
+Will release soon
