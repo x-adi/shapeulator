@@ -1,4 +1,4 @@
-#Shapeulator
+# Shapeulator
 
 This application can do the following things - 
 
@@ -23,17 +23,17 @@ This application can do the following things -
 
 - Calculate the area of a circle
 
-#Features
+# Features
 
 - User Friendly User Interface (Console Based)
 - Answers with explanation
 - Accurate solutions
 
-#Prerequisites
+# Prerequisites
 
 - Python 3 
 - Pyinstaller (install it using `pip install pyinstaller`)
 
-#Running
+# Running
 
 - Just download `main.py` and run it (`py main.py`). If you want to make it an exe, open powershell and run command `pyinstaller main.py --onefile`
