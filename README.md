@@ -1,4 +1,4 @@
-#Shapeulator#
+#Shapeulator
 
 This application can do the following things - 
 
