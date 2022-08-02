@@ -1,5 +1,7 @@
 # Shapeulator
 
+This is a beginner friendly application made in Python 3.
+
 This application can do the following things - 
 
 - Calculate the length of hypotenuse of a right angled triangle
@@ -37,3 +39,10 @@ This application can do the following things -
 # Running
 
 - Just download `main.py` and run it (`py main.py`). If you want to make it an exe, open powershell and run command `pyinstaller main.py --onefile`
+
+# Keep in mind
+
+-  Only accepts integers and decimals
+- Fractions (23/4, 33/5), blank spaces and special characters ( , @#$% etc) and alphabets (a-z, A-Z) are not allowed. Entering this will result in crashing of the app.
+
+Any suggestions are welcome.
