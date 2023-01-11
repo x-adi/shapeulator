@@ -46,3 +46,6 @@ This application can do the following things -
 - Fractions (23/4, 33/5), blank spaces and special characters ( , @#$% etc) and alphabets (a-z, A-Z) are not allowed. Entering this will result in crashing of the app.
 
 Any suggestions are welcome.
+
+# Update
+New update is on the way. Features will be revealed soon..
